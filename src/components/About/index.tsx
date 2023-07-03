@@ -15,11 +15,13 @@ export function About() {
               <strong className="text-primary">Software Engineer</strong>{' '}
               specialized in <strong className="text-primary">Rust</strong>,{' '}
               <strong className="text-primary">Solidity</strong>, and{' '}
-              <strong className="text-primary">JavaScript</strong>.
+              <strong className="text-primary">JavaScript</strong>, with strong
+              skills in Backend and Blockchain Development.
             </p>
             <p className="fs-5 my-auto text-success">
-              I&apos;m also a Yoga teacher and trekking passionate. I like to go
-              camping and being in contact with nature whenever I can.
+              I&apos;m a highly adaptable problem solver experienced in serving
+              large-scale international clients and working in fast-paced
+              environments.
             </p>
           </div>
         </div>

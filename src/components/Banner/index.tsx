@@ -11,7 +11,9 @@ export function Banner() {
             Building <strong className="text-primary">efficient</strong> &{' '}
             <strong className="text-primary">performant applications</strong>.
           </h1>
-          <h4 className="mb-4">Software Engineer</h4>
+          <h5 className="mb-4 text-success">
+            Software Engineer & Backend Developer
+          </h5>
           <div className="btn-box d-flex gap-3">
             <a href="/#projects" className="btn-purple w-100">
               <i className="fa-solid fa-code fs-5 me-2"></i> View my work
