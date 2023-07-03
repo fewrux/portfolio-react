@@ -11,7 +11,7 @@ export function About() {
           />
           <div className="col-12 col-lg-9 bio-content my-auto">
             <p className="fs-5 mb-4 text-success">
-              I&apos;m a result-driven{' '}
+              Result-driven{' '}
               <strong className="text-primary">Software Engineer</strong>{' '}
               specialized in <strong className="text-primary">Rust</strong>,{' '}
               <strong className="text-primary">Solidity</strong>, and{' '}
