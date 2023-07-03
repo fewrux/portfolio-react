@@ -1,0 +1,21 @@
+.navbar {
+  // background-color: transparent;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.navbar .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar .navbar-brand img {
+  width: 40px;
+}
+
+.nav-link {
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $purple;
+  }
+}
