@@ -19,8 +19,8 @@
 }
 
 .btn-white {
-  color: $dark;
-  background-color: white;
+  color: white;
+  background-color: #181A1B;
   text-align: center;
   font-weight: 500;
   display: inline-block;
@@ -31,7 +31,7 @@
   transition: all 0.3s ease-in-out;
 
   &:hover {
-    color: $dark;
+    color: white;
     opacity: 1;
     scale: 1.05;
   }
