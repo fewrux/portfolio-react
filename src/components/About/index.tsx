@@ -13,10 +13,9 @@ export function About() {
             <p className="fs-5 mb-4 text-success">
               Result-driven{' '}
               <strong className="text-primary">Software Engineer</strong>{' '}
-              specialized in <strong className="text-primary">Rust</strong>,{' '}
-              <strong className="text-primary">Solidity</strong>, and{' '}
+              specialized in <strong className="text-primary">Rust</strong> and{' '}
               <strong className="text-primary">JavaScript</strong>, with strong
-              skills in Backend and Blockchain Development.
+              proficiency in Backend Development.
             </p>
             <p className="fs-5 my-auto text-success">
               I&apos;m a highly adaptable problem solver experienced in serving
